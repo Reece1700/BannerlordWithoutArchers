@@ -2926,7 +2926,7 @@
 		id="aserai_archer"
 		default_group="Ranged"
 		level="21"
-		name="{=yhBagy1Y}Aserai Fighter"
+		name="{=yhBagy1Y}Aserai Brawler"
 		occupation="Soldier"
 		culture="Culture.aserai">
 		<face>
@@ -2970,7 +2970,7 @@
 					id="Item.aserai_sword_2_t2" />
 				<equipment
 					slot="Item1"
-					id="item.bound_desert_round_shield" />
+					id="item.aserai_mace_4_t4" />
 				<equipment
 					slot="Item2"
 					id="item.desert_throwing_knife" />

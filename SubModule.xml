@@ -1,5 +1,5 @@
  <Module>
-    <Name value="_BannerlordWithArchers"/>
+    <Name value="_BannerlordWithoutArchers"/>
     <Id value="_BWA"/>
     <Version value="v1.0.0"/>
     <SingleplayerModule value="true"/>
