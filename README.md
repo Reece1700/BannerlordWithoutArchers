@@ -16,15 +16,32 @@ Bannerlord Without Archers is a simple XML mod for Bannerlord which replaces ran
 
 ## Installation
 
+# Installation Instructions
+
+### Option 1: Clone the Repository
 
 ```bash
-# Installation commands
 git clone https://github.com/Reece1700/BannerlordWithoutArchers.git
+```
 
+### Option 2: Download and Extract ZIP File
 
-OR
+Download the ZIP file from the GitHub repository.
+Extract the contents of the downloaded ZIP file.
+Copy the extracted folder (BannerlordsWithoutArchers) to your Bannerlord modules directory.
+For Steam users, the typical path is:
+```bash
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\
 
-Download ZIP file and EXTRACT BannerlordsWithoutArchers.zip in your C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\ folder.
+```
+### Final Steps
+After completing one of the installation options:
+
+Launch Mount & Blade II: Bannerlord.
+In the game launcher, navigate to the "Mods" tab.
+Ensure "Bannerlords Without Archers" is selected.
+Click "Play" to start the game with the mod.
+
 
 ## Contributing
 
@@ -36,7 +53,5 @@ Make your changes and commit: git commit -m "Add new feature".
 Push to the branch: git push origin feature/new-feature.
 Submit a pull request.
 Please ensure your code adheres to the project's coding standards and includes appropriate documentation for your changes. If you have questions or need assistance, feel free to open an issue or reach out to us.
-
-License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
