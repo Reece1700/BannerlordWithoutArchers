@@ -2810,7 +2810,7 @@
 		id="aserai_skirmisher"
 		default_group="Ranged"
 		level="16"
-		name="{=5VBPoGYO}Aserai Light Archer"
+		name="{=5VBPoGYO}Aserai skirmisher"
 		occupation="Soldier"
 		culture="Culture.aserai">
 		<face>
@@ -2826,7 +2826,7 @@
 				value="30" />
 			<skill
 				id="OneHanded"
-				value="70" />
+				value="90" />
 			<skill
 				id="TwoHanded"
 				value="30" />
@@ -2835,7 +2835,7 @@
 				value="30" />
 			<skill
 				id="Bow"
-				value="70" />
+				value="0" />
 			<skill
 				id="Crossbow"
 				value="10" />
@@ -2854,13 +2854,7 @@
 					id="Item.aserai_sword_2_t2" />
 				<equipment
 					slot="Item1"
-					id="Item.hunting_bow" />
-				<equipment
-					slot="Item2"
-					id="Item.default_arrows" />
-				<equipment
-					slot="Item3"
-					id="Item.default_arrows" />
+					id="item.bound_desert_round_shield" />
 				<equipment
 					slot="Head"
 					id="Item.desert_helmet" />
@@ -2883,13 +2877,7 @@
 					id="Item.aserai_sword_2_t2" />
 				<equipment
 					slot="Item1"
-					id="Item.hunting_bow" />
-				<equipment
-					slot="Item2"
-					id="Item.default_arrows" />
-				<equipment
-					slot="Item3"
-					id="Item.default_arrows" />
+					id="item.bound_desert_round_shield" />
 				<equipment
 					slot="Head"
 					id="Item.desert_helmet" />
@@ -2912,13 +2900,7 @@
 					id="Item.aserai_sword_2_t2" />
 				<equipment
 					slot="Item1"
-					id="Item.hunting_bow" />
-				<equipment
-					slot="Item2"
-					id="Item.default_arrows" />
-				<equipment
-					slot="Item3"
-					id="Item.default_arrows" />
+					id="item.bound_desert_round_shield" />
 				<equipment
 					slot="Head"
 					id="Item.desert_helmet" />
@@ -2944,7 +2926,7 @@
 		id="aserai_archer"
 		default_group="Ranged"
 		level="21"
-		name="{=yhBagy1Y}Aserai Archer"
+		name="{=yhBagy1Y}Aserai Fighter"
 		occupation="Soldier"
 		culture="Culture.aserai">
 		<face>
@@ -2960,7 +2942,7 @@
 				value="40" />
 			<skill
 				id="OneHanded"
-				value="100" />
+				value="150" />
 			<skill
 				id="TwoHanded"
 				value="40" />
@@ -2969,13 +2951,13 @@
 				value="70" />
 			<skill
 				id="Bow"
-				value="100" />
+				value="0" />
 			<skill
 				id="Crossbow"
 				value="15" />
 			<skill
 				id="Throwing"
-				value="60" />
+				value="100" />
 		</skills>
 		<upgrade_targets>
 			<upgrade_target
@@ -2985,16 +2967,13 @@
 			<EquipmentRoster>
 				<equipment
 					slot="Item0"
-					id="Item.composite_bow" />
+					id="Item.aserai_sword_2_t2" />
 				<equipment
 					slot="Item1"
-					id="Item.barbed_arrows" />
+					id="item.bound_desert_round_shield" />
 				<equipment
 					slot="Item2"
-					id="Item.barbed_arrows" />
-				<equipment
-					slot="Item3"
-					id="Item.aserai_sword_2_t2" />
+					id="item.desert_throwing_knife" />
 				<equipment
 					slot="Head"
 					id="Item.pointed_skullcap_over_cloth_headwrap" />
@@ -3014,16 +2993,13 @@
 			<EquipmentRoster>
 				<equipment
 					slot="Item0"
-					id="Item.composite_bow" />
+					id="Item.aserai_sword_2_t2" />
 				<equipment
 					slot="Item1"
-					id="Item.barbed_arrows" />
+					id="item.bound_desert_round_shield" />
 				<equipment
 					slot="Item2"
-					id="Item.barbed_arrows" />
-				<equipment
-					slot="Item3"
-					id="Item.aserai_sword_2_t2" />
+					id="item.desert_throwing_knife" />
 				<equipment
 					slot="Head"
 					id="Item.pointed_skullcap_over_cloth_headwrap" />
@@ -3041,15 +3017,15 @@
 					id="Item.wrapped_scarf" />
 			</EquipmentRoster>
 			<EquipmentRoster>
-				<equipment
+			<equipment
 					slot="Item0"
-					id="Item.composite_bow" />
+					id="Item.aserai_sword_2_t2" />
 				<equipment
 					slot="Item1"
-					id="Item.piercing_arrows" />
+					id="item.bound_desert_round_shield" />
 				<equipment
 					slot="Item2"
-					id="Item.piercing_arrows" />
+					id="item.desert_throwing_knife" />
 				<equipment
 					slot="Item3"
 					id="Item.aserai_mace_3_t3" />

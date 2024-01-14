@@ -1,4 +1,4 @@
-<Module>
+ <Module>
     <Name value="_BannerlordWithArchers"/>
     <Id value="_BWA"/>
     <Version value="v1.0.0"/>
@@ -6,5 +6,13 @@
     <MultiplayerModule value="false"/>
     <DependedModules/>
     <SubModules/>
-    <Xmls/>
-</Module>
+    <Xmls>
+        <XmlNode>               
+            <XmlName id="NPCCharacters" path="spnpccharacters"/>
+            <IncludedGameTypes>
+                <GameType value="Campaign"/>
+                <GameType value="CampaignStoryMode"/>
+            </IncludedGameTypes>
+        </XmlNode> 
+    </Xmls>
+</Module> 
