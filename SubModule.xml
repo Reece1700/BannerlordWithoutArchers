@@ -1,0 +1,10 @@
+<Module>
+    <Name value="_BannerlordWithArchers"/>
+    <Id value="_BWA"/>
+    <Version value="v1.0.0"/>
+    <SingleplayerModule value="true"/>
+    <MultiplayerModule value="false"/>
+    <DependedModules/>
+    <SubModules/>
+    <Xmls/>
+</Module>
